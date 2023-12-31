@@ -1,7 +1,7 @@
 # Rapigo Auth Microservice
 
-![Build Status](https://github.com/github/docs/actions/workflows/go.mod/badge.svg)
-![Go Version](https://img.shields.io/badge/go-1.24-blue)
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/codegshinde/rapigo-auth-microservice/go.yml)
+![Static Badge](https://img.shields.io/badge/GO-v1.21.4-green)
 ![GitHub License](https://img.shields.io/github/license/codegshinde/rapigo-auth-microservice?style=flat)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/codegshinde/rapigo-auth-microservice)
 
