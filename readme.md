@@ -1,8 +1,8 @@
 # Rapigo Auth Microservice
 
-![Build Status](https://img.shields.io/github/workflow/status/codegshinde/rapigo-auth-microservice/Go?label=build)
-![Go Version](https://img.shields.io/badge/go-1.24-blue)
-![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/codegshinde/rapigo-auth-microservice/Go?label=build)
+![Go Version](https://img.shields.io/badge/go-1.21.4-blue)
+![GitHub License](https://img.shields.io/github/license/codegshinde/rapigo-auth-microservice?style=flat)
 
 Rapigo Auth Microservice is a Golang-based microservice for authentication.
 
