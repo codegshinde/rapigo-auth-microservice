@@ -1,3 +1,5 @@
 #ignore env files
 .env
+
+#ignore main exe file
 main.exe
